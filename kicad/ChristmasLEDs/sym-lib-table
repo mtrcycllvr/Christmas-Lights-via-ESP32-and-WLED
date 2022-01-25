@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ChristmasLEDs-rescue)(type Legacy)(uri ${KIPRJMOD}/ChristmasLEDs-rescue.lib)(options "")(descr ""))
+)

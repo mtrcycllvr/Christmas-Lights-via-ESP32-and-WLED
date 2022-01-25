@@ -577,8 +577,6 @@ Wire Wire Line
 Connection ~ 3550 5800
 Wire Wire Line
 	3550 5800 3800 5800
-Text Label 3800 5800 0    50   ~ 0
-GPIO4
 $Comp
 L Connector:Conn_01x02_Male J6
 U 1 1 61EFC9CA
@@ -640,4 +638,10 @@ Wire Wire Line
 Connection ~ 2700 6650
 Wire Wire Line
 	2700 6650 2900 6650
+Wire Wire Line
+	6200 3900 6450 3900
+Text Label 6450 3900 0    50   ~ 0
+GPIO16
+Text Label 3800 5800 0    50   ~ 0
+GPIO16
 $EndSCHEMATC

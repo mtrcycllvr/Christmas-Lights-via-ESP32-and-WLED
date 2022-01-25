@@ -2,17 +2,17 @@ EESchema Schematic File Version 4
 LIBS:ChristmasLEDs-cache
 EELAYER 26 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "sam. 04 avril 2015"
-Rev ""
+Title "ESP-32 WLED Christmas light driver"
+Date "2022-01-24"
+Rev "1.2"
 Comp ""
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Christmas Light strings"
+Comment4 "Use ESP-32UE (external antenna!!) to drive"
 $EndDescr
 $Comp
 L 74xx:74HC245 U1
